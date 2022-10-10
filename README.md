@@ -7,7 +7,11 @@
 I currently work as a front-end mentor assistant in Najot ta'lim (one of the popular IT school in Uzbekistan). //
 
 
-Skills: REACT / JS / Redux / HTML / CSS
+**Skills:** 
+- ![Windows11onReactGIF](https://user-images.githubusercontent.com/83812247/194952031-a019c536-feb4-49df-8998-1b2cffc5768b.gif)
+ REACT / 
+ 
+ JS / Redux / HTML / CSS
 
 - 🔭 I’m currently working on Self development. 
 - 🌱 I’m currently learning Python  
