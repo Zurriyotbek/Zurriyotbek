@@ -8,10 +8,7 @@ I currently work as a front-end mentor assistant in Najot ta'lim (one of the pop
 
 
 **Skills:** 
-- ![Windows11onReactGIF](https://user-images.githubusercontent.com/83812247/194952031-a019c536-feb4-49df-8998-1b2cffc5768b.gif)
- REACT / 
- 
- JS / Redux / HTML / CSS
+_REACT / JS / Redux / HTML / CSS_
 
 - 🔭 I’m currently working on Self development. 
 - 🌱 I’m currently learning Python  
