@@ -8,7 +8,7 @@
 I currently work as a front-end mentor assistant in Najot ta'lim (one of the popular IT school in Uzbekistan). //
 
 
-**Skills:** 
+### Skills: 
 _REACT / JS / Redux / HTML / CSS_
 
 - 🔭 I’m currently working on Self development. 
