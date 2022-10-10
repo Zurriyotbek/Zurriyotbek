@@ -1,3 +1,3 @@
-<img src="https://github.com/Zurriyotbek/Zurriyotbek/blob/main/ezgif.com-gif-maker.gif" width="800" />
+<img src="https://github.com/Zurriyotbek/Zurriyotbek/blob/main/ezgif.com-gif-maker.gif" width="800" height="200"/>
 
 # Hi, I'm Zurriyotbek Nabiev
