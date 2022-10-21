@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Zurriyotbek Nabiev
-### I am a Front-end developer
+### I am a Front-end developer 👨‍💻
 <!-- ![I am Front-end developer](https://scontent.ftas5-1.fna.fbcdn.net/v/t39.30808-6/215012307_967782890654660_8451498856442332788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gk1W1UnZIOgAX8sLdvD&_nc_ht=scontent.ftas5-1.fna&oh=00_AT8MM-dVEAMTP7tRestHInQzvMpiGlarKiLthYTvlVutKg&oe=6348A455)
  -->
 ### About me
@@ -10,7 +10,7 @@ I currently work as a front-end mentor assistant in Najot ta'lim. //
 
 ###
 ### Skills: 
-_REACT / JS / Redux / HTML / CSS_
+_REACT / JS / Redux / HTML / CSS / SASS_
 
 
 - 🌱 I’m currently learning Python  
