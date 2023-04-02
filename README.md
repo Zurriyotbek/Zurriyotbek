@@ -5,7 +5,6 @@
 ### About me
 // Learning front-end frameworks, python ([from D.Malan](https://www.linkedin.com/in/malan/)) and as well as algorithms and data structures.
 
-I currently work as a front-end mentor assistant in Najot ta'lim. //
 
 
 ###
