@@ -11,7 +11,6 @@
 _REACT / JS / Redux / HTML / CSS / SASS_
 
 
-- 🌱 I’m currently learning Python  
 - 👯 I’m looking to collaborate on Learning new technologies. 
 - 🤔 I’m looking for help with Algorithms and data structures 
 - 💬 Ask me about Front-end development 
