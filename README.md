@@ -3,7 +3,6 @@
 <!-- ![I am Front-end developer](https://scontent.ftas5-1.fna.fbcdn.net/v/t39.30808-6/215012307_967782890654660_8451498856442332788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gk1W1UnZIOgAX8sLdvD&_nc_ht=scontent.ftas5-1.fna&oh=00_AT8MM-dVEAMTP7tRestHInQzvMpiGlarKiLthYTvlVutKg&oe=6348A455)
  -->
 ### About me
-// Learning front-end frameworks, python ([from D.Malan](https://www.linkedin.com/in/malan/)) and as well as algorithms and data structures.
 
 
 
